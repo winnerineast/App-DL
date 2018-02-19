@@ -9,9 +9,21 @@
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
 
 ### Text Generation
+- Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
+- Lin, Kevin, Dianqi Li, Xiaodong He, Zhengyou Zhang, and Ming-Ting Sun. "[Adversarial Ranking for Language Generation](https://arxiv.org/pdf/1705.11001.pdf)." arXiv preprint arXiv:1705.11001 (2017).
+- Zhang, Li, Flood Sung, Feng Liu, Tao Xiang, Shaogang Gong, Yongxin Yang, and Timothy M. Hospedales. "[Actor-Critic Sequence Training for Image Captioning](https://arxiv.org/abs/1706.09601)." arXiv preprint arXiv:1706.09601 (2017).
 - Wiseman, Sam, Stuart M. Shieber, and Alexander M. Rush. "[Challenges in Data-to-Document Generation](https://arxiv.org/abs/1707.08052)." arXiv preprint arXiv:1707.08052 (2017).
 - Lebret, Rémi, David Grangier, and Michael Auli. "[Neural text generation from structured data with application to the biography domain](https://arxiv.org/abs/1603.07771)." arXiv preprint arXiv:1603.07771 (2016).
+- Chisholm, Andrew, Will Radford, and Ben Hachey. "[Learning to generate one-sentence biographies from Wikidata](https://arxiv.org/abs/1702.06235)." arXiv preprint arXiv:1702.06235 (2017).
 - Sha, Lei, Lili Mou, Tianyu Liu, Pascal Poupart, Sujian Li, Baobao Chang, and Zhifang Sui. "[Order-Planning Neural Text Generation From Structured Data](https://arxiv.org/abs/1709.00155)." arXiv preprint arXiv:1709.00155 (2017).
+- Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang. "[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/abs/1709.08624)." arXiv preprint  arXiv:1709.08624 (2017).
+- Guu, Kelvin, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. "[Generating Sentences by Editing Prototypes](https://arxiv.org/abs/1709.08878)." arXiv preprint arXiv:1709.08878 (2017).
+- Tianyu Liu, Kexiang Wang, Lei Sha, Baobao Chang, Zhifang Sui. "[Table-to-text Generation by Structure-aware Seq2seq Learnings](https://arxiv.org/abs/1711.09724)." arXiv preprint arXiv:1711.09724 (2017).
+- Kahou, Samira Ebrahimi, Adam Atkinson, Vincent Michalski, Akos Kadar, Adam Trischler, and Yoshua Bengio. "[FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300)." arXiv preprint arXiv:1710.07300 (2017).
+- Murakami, Soichiro, Akihiko Watanabe, Akira Miyazawa, Keiichi Goshima, Toshihiko Yanase, Hiroya Takamura, and Yusuke Miyao. "[Learning to Generate Market Comments from Stock Prices](http://www.aclweb.org/anthology/P17-1126)." In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), vol. 1, pp. 1374-1384. 2017.
+- Mueller, Jonas, David Gifford, and Tommi Jaakkola. "[Sequence to better sequence: continuous revision of combinatorial structures](http://proceedings.mlr.press/v70/mueller17a.html)." In International Conference on Machine Learning, pp. 2536-2544. 2017.
+- Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer. "[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)." ICLR 2018.
+- Clark, Elizabeth, Anne Spencer Ross, Chenhao Tan, Yangfeng Ji, and Noah A. Smith. "[Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~ansross/papers/iui2018-creativewriting.pdf)." (2018).
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
@@ -65,11 +77,17 @@
   - Piji Li, Lidong Bing, Wai Lam. [Reader-Aware Multi-Document Summarization: An Enhanced Model and The First Dataset](http://www1.se.cuhk.edu.hk/~textmine/dataset/ra-mds/). Proceedings of the EMNLP 2017 Workshop on New Frontiers in Summarization (EMNLP-NewSum'17). Sep 2017.
   - Tan, Jiwei, Xiaojun Wan, and Jianguo Xiao. "[From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach](http://static.ijcai.org/proceedings-2017/0574.pdf)." IJCAI 2017.
   - Ling, Jeffrey, and Alexander M. Rush. "[Coarse-to-Fine Attention Models for Document Summarization](http://www.aclweb.org/anthology/W/W17/W17-4505.pdf)." EMNLP 2017 (2017): 33.
+  - Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)." arXiv:1711.04434 (2017).
+  - Angela Fan, David Grangier, Michael Auli. "[Controllable Abstractive Summarization](https://arxiv.org/abs/1711.05217)." arXiv:1711.05217 (2017).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
   - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
+  
+### Video Summarization
+  - Zhou, Kaiyang, and Yu Qiao. "[Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward](https://arxiv.org/abs/1801.00054)." arXiv preprint arXiv:1801.00054 (2017). 
+  - Mahasseni, Behrooz, Michael Lam, and Sinisa Todorovic. "[Unsupervised video summarization with adversarial lstm networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mahasseni_Unsupervised_Video_Summarization_CVPR_2017_paper.pdf)." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017.
 
 ### Reading Comprehension
  - Hermann, Karl Moritz, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. "[Teaching machines to read and comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend)." In Advances in Neural Information Processing Systems, pp. 1693-1701. 2015.
@@ -170,6 +188,9 @@
  - Junbo (Jake) Zhao, Yoon Kim, Kelly Zhang, Alexander M. Rush, Yann LeCun. "[Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/abs/1706.04223)." arXiv preprint arXiv:1706.04223 (2017).
  - 	Mike Lewis  	Denis Yarats  	Yann N. Dauphin  	Devi Parikh  	Dhruv Batra . "[ Deal or No Deal? End-to-End Learning for Negotiation Dialogues](http://s3.amazonaws.com/end-to-end-negotiator/end-to-end-negotiator.pdf)." (2017).
  - Mihaela Rosca, Balaji Lakshminarayanan, David Warde-Farley, Shakir Mohamed. "[Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/abs/1706.04987)." arXiv preprint arXiv:1706.04987 (2017).
+ - Goyal, Prasoon, Zhiting Hu, Xiaodan Liang, Chenyu Wang, and Eric Xing. "[Nonparametric Variational Auto-encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)." arXiv preprint arXiv:1703.07027 (2017).
+ - Sabour, Sara, Nicholas Frosst, and Geoffrey Hinton. "[Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829)." (2017).
+ - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "[Attention is all you need](http://papers.nips.cc/paper/7181-attention-is-all-you-need)." NIPS. 2017.
  
 ### Recommendation System
 - Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "[Restricted Boltzmann machines for collaborative filtering](http://dl.acm.org/citation.cfm?id=1273596)." In Proceedings of the 24th international conference on Machine learning, pp. 791-798. ACM, 2007.
