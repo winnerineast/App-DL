@@ -7,6 +7,9 @@
  - Bahdanau, Dzmitry, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. "[An Actor-Critic Algorithm for Sequence Prediction](http://arxiv.org/abs/1607.07086)." arXiv preprint arXiv:1607.07086 (2016).
  - Li, Jiwei, Will Monroe, Alan Ritter, and Dan Jurafsky. "[Deep Reinforcement Learning for Dialogue Generation](http://arxiv.org/abs/1606.01541)." arXiv preprint arXiv:1606.01541 (2016).
  - Pathak, Deepak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. "[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)." arXiv preprint arXiv:1705.05363 (2017).
+ - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
+
+### Task-Oriented Dialogue
 
 ### Text Generation
 - Rennie, Steven J., Etienne Marcheret, Youssef Mroueh, Jarret Ross, and Vaibhava Goel. "[Self-critical sequence training for image captioning](https://arxiv.org/abs/1612.00563)." arXiv preprint arXiv:1612.00563 (2016).
@@ -24,6 +27,10 @@
 - Mueller, Jonas, David Gifford, and Tommi Jaakkola. "[Sequence to better sequence: continuous revision of combinatorial structures](http://proceedings.mlr.press/v70/mueller17a.html)." In International Conference on Machine Learning, pp. 2536-2544. 2017.
 - Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer. "[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)." ICLR 2018.
 - Clark, Elizabeth, Anne Spencer Ross, Chenhao Tan, Yangfeng Ji, and Noah A. Smith. "[Creative Writing with a Machine in the Loop: Case Studies on Slogans and Stories](https://homes.cs.washington.edu/~ansross/papers/iui2018-creativewriting.pdf)." (2018).
+- Gehrmann, Sebastian, S. E. A. S. Harvard, Falcon Z. Dai, Henry Elder, and Alexander M. Rush. "[End-to-End Content and Plan Selection for Natural Language Generation](https://scholar.harvard.edu/files/gehrmann/files/e2e-harvardnlp.pdf)."
+- Juncen Li, Robin Jia, He He, Percy Liang. "[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437)." arXiv:1804.06437 2018.
+- Yi Liao, Lidong Bing, Piji Li, Shuming Shi, Wai Lam, Tong Zhang. "[Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing](https://arxiv.org/abs/1804.07007)." arXiv:1804.07007 2018.
+- Xin Wang, Wenhu Chen, Yuan-Fang Wang, William Yang Wang. "[No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](https://arxiv.org/abs/1804.09160)." arXiv:1804.09160 2018.
 
 ### Text Summarization
   - Ryang, Seonggi, and Takeshi Abekawa. "[Framework of automatic text summarization using reinforcement learning](http://dl.acm.org/citation.cfm?id=2390980)." In Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning, pp. 256-265. Association for Computational Linguistics, 2012. [not neural-based methods]
@@ -79,11 +86,27 @@
   - Ling, Jeffrey, and Alexander M. Rush. "[Coarse-to-Fine Attention Models for Document Summarization](http://www.aclweb.org/anthology/W/W17/W17-4505.pdf)." EMNLP 2017 (2017): 33.
   - Ziqiang Cao, Furu Wei, Wenjie Li, Sujian Li. "[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)." arXiv:1711.04434 (2017).
   - Angela Fan, David Grangier, Michael Auli. "[Controllable Abstractive Summarization](https://arxiv.org/abs/1711.05217)." arXiv:1711.05217 (2017).
+  - Narayan, Shashi, Shay B. Cohen, and Mirella Lapata. "[Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://arxiv.org/abs/1802.08636)." arXiv preprint arXiv:1802.08636 (2018).
+  - Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, Yejin Choi. "[Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357)." NAACL (2018).
+  - Chen, Wenhu, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, and Ming Zhou. "[Generative Bridging Network in Neural Sequence Prediction](https://arxiv.org/abs/1706.09152)." NAACL (2018).
+  - Li, Piji, Lidong Bing, and Wai Lam. "[Actor-Critic based Training Framework for Abstractive Summarization](https://arxiv.org/abs/1803.11070)." arXiv preprint arXiv:1803.11070 (2018).
+  - Arman Cohan, Franck Dernoncourt, Doo Soon Kim, Trung Bui, Seokhwan Kim, Walter Chang, Nazli Goharian. "[
+A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)".  NAACL, 2018.
+  - Yuxiang Wu, Baotian Hu. "[Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/abs/1804.07036)." AAAI (2018).
+  - Jianmin Zhang, Jiwei Tan, Xiaojun Wan. "[Towards a Neural Network Approach to Abstractive Multi-Document Summarization](https://arxiv.org/abs/1804.09010)." arXiv:1804.09010  (2018).
+  - Li Wang, Junlin Yao, Yunzhe Tao, Li Zhong, Wei Liu, Qiang Du. "[A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization](https://arxiv.org/abs/1805.03616)." IJCAI-ECAI  (2018).
+  - Yen-Chun Chen, Mohit Bansal. "[Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting
+](https://arxiv.org/abs/1805.11080)." arXiv:1805.11080  (2018).
+  - Song, Kaiqiang, Lin Zhao, and Fei Liu. "[Structure-Infused Copy Mechanisms for Abstractive Summarization](http://www.cs.ucf.edu/~feiliu/papers/COLING2018_StructSumm.pdf)." COLING, 2018.
+  - Keneshloo, Yaser, Tian Shi, Chandan K. Reddy, and Naren Ramakrishnan. "[Deep Reinforcement Learning For Sequence to Sequence Models](https://arxiv.org/abs/1805.09461)." arXiv preprint arXiv:1805.09461 (2018).
+  - Qingyu Zhou, Nan Yang, Furu Wei, Ming Zhou. "[Sequential Copying Networks](https://arxiv.org/abs/1807.02301)." AAAI (2018).
+  - Qingyu Zhou, Nan Yang, Furu Wei, Shaohan Huang, Ming Zhou, Tiejun Zhao. "[Neural Document Summarization by Jointly Learning to Score and Select Sentences](https://arxiv.org/abs/1807.02305)." ACL (2018).
+  - Khatri, Chandra, Gyanit Singh, and Nish Parikh. "[Abstractive and Extractive Text Summarization using Document Context Vector and Recurrent Neural Networks](https://arxiv.org/abs/1807.08000)." arXiv preprint arXiv:1807.08000 (2018).
  
 ### Opinion Summarization
   - Wu, Haibing, Yiwei Gu, Shangdi Sun, and Xiaodong Gu. "[Aspect-based Opinion Summarization with Convolutional Neural Networks](http://arxiv.org/abs/1511.09128)." arXiv preprint arXiv:1511.09128 (2015).
   - Irsoy, Ozan, and Claire Cardie. "[Opinion Mining with Deep Recurrent Neural Networks](http://anthology.aclweb.org/D/D14/D14-1080.pdf)." In EMNLP, pp. 720-728. 2014.
-  - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, pp xx-xx. 2017.
+  - Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam. "[Neural Rating Regression with Abstractive Tips Generation for Recommendation]().". In SIGIR, 2017.
   
 ### Video Summarization
   - Zhou, Kaiyang, and Yu Qiao. "[Deep Reinforcement Learning for Unsupervised Video Summarization with Diversity-Representativeness Reward](https://arxiv.org/abs/1801.00054)." arXiv preprint arXiv:1801.00054 (2017). 
